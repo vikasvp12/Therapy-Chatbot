@@ -4,7 +4,6 @@ A **multilingual therapy chatbot** that emotionally interacts with users, detect
 It supports **text + speech output**, works directly in **Google Colab**, and **requires no extra setup** beyond basic Python libraries.
 
 ---
-
 ## Supported Languages
 The chatbot can chat and speak in multiple languages:
 
